@@ -3,4 +3,5 @@ Conceptualization: Paola A. Castillo-Gutierrez
 Analysis: Paola A. Castillo-Gutierrez 
 Code: Paola A. Castillo-Gutierrez
 
-Parallel Personal Project and Implementation, without guidance of advisor 
+**Parallel Personal Project and Implementation
+**
