@@ -5,8 +5,7 @@ Code: Paola A. Castillo-Gutierrez
 
 Mood because I built a castle out of all the bricks they threw at me 
 
-**Parallel Personal Project and Implementation
-**
+**Parallel Personal Project and Implementation**
 ** Without any advisor feedback**
-
 ** In progess of publication: Sole author**
+Zenodo link for citation and doi: 
