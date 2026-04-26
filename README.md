@@ -7,5 +7,6 @@ Mood because I built a castle out of all the bricks they threw at me
 
 **Personal Project and Implementation**  
 ** Without any advisor feedback, guidance or resources from Tecnológico de Monterrey**  
-** In progress of publication: Only author**  
+** In progress of publication: Only author** 
+** Not part of my thesis **
 Zenodo link for citation and doi: 
